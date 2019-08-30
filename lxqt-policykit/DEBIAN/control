@@ -1,0 +1,10 @@
+Package: lxqt-policykit
+Version: 0.14.9-0ubuntu1
+Depends: lxpolkit
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:12
+Description: This package not a real lxqt-policykit, but one fake package replacing by lxpolkit
+
